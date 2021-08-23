@@ -84,3 +84,4 @@ Exemplo modelo do item da lista JSON:
 ## Observações
 
 - Ao final do desenvolvimento, abra um Pull Request direcionada á branch que foi passada a você
+- Leia toda a essa especificação, e nos diga a SUA estimativa de entrega em dias.
