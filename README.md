@@ -79,6 +79,7 @@ Exemplo modelo do item da lista JSON:
 
 - [ ] Testes de unidades
 - [ ] Testes de interface
+- [ ] Documentação
 
 ## Observações
 
