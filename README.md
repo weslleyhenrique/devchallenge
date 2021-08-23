@@ -8,15 +8,14 @@ Nós 🥳, da Guilda Mobile da Clear Corretora sempre estamos em busca do melhor
 O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas a bolsa pelo nosso cliente.
 
 ## Features
-- Criar uma lista performática e atraente
-- Consumir uma lista de ordens via API REST
-- Distâncias entre Margens não é importante. (Queremos testar a sua percepção)
-- Tipo da fonte não é importante.
-- Tamanho da fonte não é importante. (Queremos testar a sua percepção)
+- Criar uma página de login
+- Criar uma página com uma lista de ordens 
+- Consumir uma API REST com a lista de ordens
+- Sistema de navegação entre as páginas
 
 ## Avaliação
- Tudo é permitido, pense como se esse APP fosse seu, você é o dono do negócio. Nossa avaliação será em cima de como você lidará com essa demanda; performance, tratamento de erros, layout. Questões de arquitetura, estrutura, plugins e code-smell também serão avaliados, porém lembre-se do famoso ditado do mundo dev: "não se usa bala de canhão para matar uma formiga"
-
+ Tudo é permitido, pense como se esse APP fosse seu, você é o dono do negócio. Nossa avaliação será em cima de como você lidará com essa demanda; performance, tratamento de erros, layout. Questões de arquitetura, estrutura, plugins e code-smell também serão avaliados.
+ 
 ## Protótipo
 
 | ![Page1](Resources/Tela-Login.jpg)  | ![Page2](Resources/Tela-Ordens.jpg) |
@@ -24,7 +23,11 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 | Login | Listagem de Ordens |
 
 
-#### Algumas especificações
+### Algumas especificações
+
+- Distâncias entre Margens não é importante. (Queremos testar a sua percepção)
+- Tipo da fonte não é importante.
+- Tamanho da fonte não é importante. (Queremos testar a sua percepção)
 
 | Cores | hexadecimal |
 | ------ | ------ |
@@ -48,7 +51,7 @@ https://cadastro.clear.com.br/images/logos/clear-logo.png
 
 Endpoint para API:
 ```sh
-https://6123c2e6124d880017568476.mockapi.io/api/v1/swingtrade/orders
+get: https://6123c2e6124d880017568476.mockapi.io/api/v1/swingtrade/orders
 ```
 
 Exemplo modelo do item da lista JSON:
@@ -78,12 +81,19 @@ Exemplo modelo do item da lista JSON:
 
 ## Bônus
 
-- [ ] Testes de unidades
-- [ ] Testes de interface
+- [ ] Testes de unidade
+- [ ] Testes de interface (Xamarin UI)
 - [ ] Documentação
 
 ## Observações
 
 - Inclua todo seu código dentro do diretório /put-your-challenge-here
 - Ao final do desenvolvimento, abra um Pull Request direcionada á branch que foi passada a você
-- Leia toda a essa especificação, e nos diga a SUA estimativa de entrega em dias.
+- Leia com atenção a toda essa especificação, e nos diga a SUA estimativa de entrega em dias.
+
+## Dicas 😘 
+- TUDO a mais, será avaliado como bônus
+- Componentização é importante para nós
+- Um código C# bem escrito não quer guerra com ninguém
+- Os componentes do Xamarin Forms são praticamente suficientes para o teste
+- Não use bala de canhão para matar uma formiga
