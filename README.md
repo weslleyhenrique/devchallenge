@@ -34,6 +34,26 @@ Logotipo da clear:
 https://cadastro.clear.com.br/images/logos/clear-logo.png
 ```
 
+Endpoint para API:
+```sh
+https://6123c2e6124d880017568476.mockapi.io/api/v1/swingtrade/orders
+```
+
+Exemplo modelo do item da lista JSON:
+```sh
+{
+    "createdAt": "2021-08-23T09:21:44.521Z",
+    "symbol": "ABEV3",
+    "name": "AMBEV S/A ON",
+    "quantity": "400",
+    "type": "A Mercado",
+    "side": "Compra",
+    "module": "Swing Trade",
+    "status": "Executada",
+    "logo": "https://pro.clear.com.br/src/assets/symbols_icons/ABEV.png",
+    "id": "1"
+}
+```
 
 ## Requisitos Essenciais
 
