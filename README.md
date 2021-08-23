@@ -1,3 +1,5 @@
+![logo](Resources/icon-menu.png) 
+
 # Challenge Clear - Desenvolvedor Mobile
 ## Desafio Xamarin Forms
 
