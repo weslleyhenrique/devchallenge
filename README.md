@@ -17,9 +17,27 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 
 ## Protótipo
 
-| ![Page1](Resources/Tela-Login.jpg)  | ![Page2](Resources/Tela-Ordens.jpg) |
+| ![Page1](Tela-Login.jpg)  | ![Page2](Tela-Ordens.jpg) |
 |:---:|:---:|
 | Login | Listagem de Ordens |
+
+
+#### Algumas especificações
+
+Link para "abra sua conta":
+```sh
+https://cadastro.clear.com.br/desktop/step/1
+```
+
+Logotipo da clear:
+```sh
+https://cadastro.clear.com.br/images/logos/clear-logo.png
+```
+
+Link para esqueci minha assinatura eletrônica:
+```sh
+https://cadastro.clear.com.br/images/logos/clear-logo.png
+```
 
 ## Requisitos Essenciais
 
@@ -27,6 +45,7 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 - [x] Criar o layout com XAML
 - [x] Projeto deve rodar no Android e iOS
 - [x] Layout deve ser responsivo
+
 
 ## Bônus
 
