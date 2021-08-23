@@ -32,6 +32,7 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 | Badge (azul) "C" para quando for uma compra | #052fff |
 | Cor de Background  | #131a20 |
 | Cor de Background do item da lista  | #1d262f |
+| Cor botão do login  | #0404cf |
 
 Link para "abra sua conta":
 ```sh
