@@ -17,7 +17,7 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 
 ## Protótipo
 
-| ![Page1](Tela-Login.jpg)  | ![Page2](Tela-Ordens.jpg) |
+| ![Page1](Resources/Tela-Login.jpg)  | ![Page2](Resources/Tela-Ordens.jpg) |
 |:---:|:---:|
 | Login | Listagem de Ordens |
 
