@@ -13,7 +13,7 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 - Tamanho da fonte não é importante. (Queremos testar a sua percepção)
 
 ## Avaliação
- Tudo é permitido, pense como se esse APP fosse seu, você é o dono do negócio. Nossa avaliação será em cima de como você lidará com essa demanda; performance, tratamento de erros, layout. Questões de arquitetura, estrutura, plugins e code-smell também são avaliados, porém lembre-se do famoso ditado do mundo dev: "não se usa bala de canhão para matar uma formiga"
+ Tudo é permitido, pense como se esse APP fosse seu, você é o dono do negócio. Nossa avaliação será em cima de como você lidará com essa demanda; performance, tratamento de erros, layout. Questões de arquitetura, estrutura, plugins e code-smell também serão avaliados, porém lembre-se do famoso ditado do mundo dev: "não se usa bala de canhão para matar uma formiga"
 
 ## Protótipo
 
@@ -34,10 +34,6 @@ Logotipo da clear:
 https://cadastro.clear.com.br/images/logos/clear-logo.png
 ```
 
-Link para esqueci minha assinatura eletrônica:
-```sh
-https://cadastro.clear.com.br/images/logos/clear-logo.png
-```
 
 ## Requisitos Essenciais
 
