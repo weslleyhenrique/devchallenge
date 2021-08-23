@@ -30,13 +30,13 @@ O desafio é implementar um app 📱 onde podemos ver uma lista ordens enviadas 
 | ------ | ------ |
 | Badge (verde) Status: "Executada" | #7cd444 |
 | Badge (cinza) tipo da ordem: "Swing T." | #4d677e |
-| Badge (vermelho) "V" para quando for uma venda | #7cd444 |
+| Badge (vermelho) "V" para quando for uma venda | #c2052b |
 | Badge (azul) "C" para quando for uma compra | #052fff |
 | Cor de Background  | #131a20 |
 | Cor de Background do item da lista  | #1d262f |
 | Cor botão do login  | #0404cf |
 
-Link para "abra sua conta":
+Link externo para "abra sua conta":
 ```sh
 https://cadastro.clear.com.br/desktop/step/1
 ```
