@@ -69,6 +69,7 @@ Exemplo modelo do item da lista JSON:
 
 ## Requisitos Essenciais
 
+- [x] Siga o modelo do protótipo
 - [x] Usar Xamarin Forms > 5.0.0
 - [x] Criar o layout com XAML
 - [x] Projeto deve rodar no Android e iOS
